@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-vector/web-development-coding-programming-futuristic-banner-computer-code-laptop_3482-5582.jpg?w=2000)](https://rishavchanda.io)
+[![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Akshit Madan</h1>
 <h3 align="center">YouTuber | Flutter | MERN | Blockchain Developer | Founder GrowMonks.in</h3>
 
