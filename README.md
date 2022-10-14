@@ -8,11 +8,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akmadan" alt="akmadan" /></a> </p>
 
-- 🌱 I’m currently learning **Blockchain**
+- 🌱 I’m currently learning **AWS**
 
-- 🤝 My Freelancing Agency [GrowMonks](www.growmonks.in)
-
-- 💬 Ask me about **Flutter, React, Python, Solidity**
+- 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **akmadan1717@gmail.com**
 
