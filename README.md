@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 🤝 My Freelancing Agency [GrowMonks](www.growmonks.in)
-
 - 💬 Ask me about **Flutter, Cloud Technology(AWS)**
 
 - 📫 How to reach me **akmadan1717@gmail.com**
