@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/akshitmadan6" target="blank"><img src="https://img.shields.io/twitter/follow/akshitmadan6?logo=twitter&style=for-the-badge" alt="akshitmadan6" /></a> </p>
 
-- 🌱 I’m currently learning **Cloud Technology**
+- 🌱 I’m currently learning **Cloud Computing**
 
-- 💬 Ask me about **Flutter, Cloud Technology, Software Engineering Concepts**
+- 💬 Ask me about **Flutter, Firebase, MongoDB, Typescript, Node/Express, Python, Docker, Kubernetes, AWS**
 
 - 📫 How to reach me **akmadan1717@gmail.com**
 
